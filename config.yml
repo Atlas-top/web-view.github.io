@@ -1,0 +1,6 @@
+defaults:
+_ scope:
+    path: ""
+    type: "pages"
+    values:
+    permalink: /%title%.html
